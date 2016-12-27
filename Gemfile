@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "figaro"
 #sending mail
 gem 'mailgun_rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
